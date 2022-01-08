@@ -10,6 +10,8 @@
     - store.js
 
 
+- types : sao as acoes que o redux vai usar para manipular os dados do redecuers
+
 
 
 
