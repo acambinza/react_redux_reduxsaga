@@ -16,6 +16,12 @@ React JS with Redux and Redux
 - yarn add redux
 - yarn add react-redux
 
+## to start
+
+- yarn start
+
+
+
 
 ## Some notes of REDUX
 
@@ -26,3 +32,10 @@ React JS with Redux and Redux
     file ex.: redux/reducers/users.js
 - types : são as action que o redux vai usar para manipular os dados do reducers
     file ex.: types.js
+
+
+
+
+
+
+# DEIXA UM START NO PROJECTO :)
